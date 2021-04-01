@@ -12,7 +12,7 @@ $(document).ready(function() {
                         alert("user does not exist");
                         break;
                     case "sl":
-                       window.location.href="/orders/main.php";
+                       window.location.href="/iap-project/orders/main.php";
                         break;
                     case "ip":
                         alert("incorrect password or email");

@@ -10,7 +10,7 @@ $('.btn').click(function(e){
             cache: false,
             processData:false,
             success: function(){ 
-               window.location.href="/orders/main.php";
+               window.location.href="/iap-project/orders/main.php";
             }
         });
     });

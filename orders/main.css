@@ -1,7 +1,3 @@
-.topnavigation{
-    float: left;
-    top:10px;
-  }
   body{
       text-align: center;
       font-size: 25px;
@@ -11,7 +7,7 @@
   a{
     color:teal;
     text-decoration: none;
-    font-size: 75%;
+    font-size: 18px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 0 8vw 0 1vw;
     display: inline;
@@ -30,7 +26,7 @@
     outline: none;
     color: black;
     padding: 14px 16px;
-    font-family: ap;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background-color: white;
     margin: 0; 
     font-size:75%;
