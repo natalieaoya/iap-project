@@ -6,7 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
-.iap-labs/profiles/
+iap-labs/profiles/
 # Executables
 *.swf
 *.air
